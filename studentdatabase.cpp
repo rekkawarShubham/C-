@@ -74,7 +74,7 @@ int main()
 {
      int n,i;
     student s1,*ptr[5];
-   /* s1.display();
+    s1.display();
     s1.getdata();
     s1.display();
     //========================
@@ -82,7 +82,7 @@ int main()
     student s2(&s1);
     cout<<"\n\tRoll\tName\tBg\tAddress\tDOB\t\n";
     s2.display();
-*/
+
     cout<<"\n how many object do u want";
     cin>>n;
 
