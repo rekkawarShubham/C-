@@ -2,10 +2,6 @@
 #include<cstring>
 using namespace std;
 
-
-	int age, vehicle;
-	float income;
-	char city[10];
 class loan
 {
 	int age, vehicle;
